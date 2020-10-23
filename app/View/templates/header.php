@@ -27,7 +27,7 @@
             Curso
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="<?=BASEURL?>/?page=curso">Home</a>
+            <a class="dropdown-item" href="<?=BASEURL?>/?page=curso&method=home">Listar</a>
             <a class="dropdown-item" href="<?=BASEURL?>/?page=curso&method=create">Cadastrar</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="<?=BASEURL?>/?page=sobre">Sobre</a>

@@ -8,4 +8,10 @@
 
         }
 
+        public function create(){
+
+            $this->render('create');
+
+        }
+
     }
