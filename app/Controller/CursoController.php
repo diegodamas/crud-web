@@ -14,4 +14,10 @@
 
         }
 
+        public function insert(){
+
+            echo 'oi';
+
+        }
+
     }

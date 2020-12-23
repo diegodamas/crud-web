@@ -7,6 +7,7 @@
     require_once 'app/Controller/ErroController.php';
     require_once 'app/Controller/HomeController.php';
     require_once 'app/Controller/CursoController.php';
+    require_once 'app/Controller/SobreController.php';
    
 
     $app = new App;

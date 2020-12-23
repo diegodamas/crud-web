@@ -1,6 +1,6 @@
 <?= $render('header'); ?>
 
-<form class="ml-3 mt-3">
+<form class="ml-3 mt-3" id='formInsertCurso' action="<?= BASEURL ?>/?page=curso&method=insert">
   <div class="form-group">
     <label for="nomeCurso">Nome do curso</label>
     <input type="text" class="form-control" id="nomeCurso" placeholder="Nome do curso">
